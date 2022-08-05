@@ -1,4 +1,4 @@
-# Have you ever need a private, local mail service? If yes, then Le Mail is for you!
+# Le Mail - local, private, simple
 
 Localhost Mail Service made with Java (JSP x Servlet)
 
