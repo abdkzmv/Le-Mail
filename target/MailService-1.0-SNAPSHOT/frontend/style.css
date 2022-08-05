@@ -1,0 +1,7 @@
+table, td, th, details, summary {
+    margin: auto;
+}
+h1, h2, h3, a, p, pre, input, button, form, footer, header, main {
+    text-align: center;
+    margin: auto;
+}
